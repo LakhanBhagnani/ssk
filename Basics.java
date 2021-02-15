@@ -11,8 +11,8 @@ class Basics{
             System.out.print("odd");
         }
         //with conditional operator
-        String result = (number %2 ==0) ? "even" : "odd" ;
-        System.out.print(result);
+        //String result = (number %2 ==0) ? "even" : "odd" ;
+        //System.out.print(result);
 
     }
     public static void main(String[] args) {
